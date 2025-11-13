@@ -8,4 +8,4 @@ My email is followed: feitx@mail2.sysu.edu.cn.
 
 I'm a beginner in Artificial Intelligence, and my primary areas of interest within AI include AI for Science, Multimodal Learning, and Generative Models. I'm also interested in the application of neural network and deep learning in my major, such as communication and sensing.
 
-I'm now an intern student in Key Laboratory Of Advanced Intellisense Technology of Guangdong Province at Sun Yat-sen University, advised by Prof. Jun Hu and Prof. Lei Zhang. I'm preparing to apply for graduate studies in the United States and Canada.
+I'm now an research intern student in NLP Group at UC Merced, advised by Prof. Yiwei Wang. I'm preparing to apply for graduate studies in the United States and Canada.
